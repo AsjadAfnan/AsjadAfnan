@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsjadAfnan
-- 👀 I’m interested in AI and ML
+- 👀 I Work as Data Scientist in the morning And Developer at Night. 
 - 🌱 I’m currently learning System design 
 - 💞️ I’m a student @Reva University
 - 📫 How to reach me Ajafnan@gmail.com
