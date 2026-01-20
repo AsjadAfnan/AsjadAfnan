@@ -3,7 +3,7 @@ AsjadAfnan/AsjadAfnan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @AsjadAfnan.<br>👀 I Work as Data Scientist in the morning And an AI Researcher at Night.<br>🌱 I’m currently learning System design Architecture Involving AI Systems.<br>🦇 I Enjoy Video Editing and Filming.<br>💞️ I’m a student @University of Bremen.<br>📫 How to reach me contactasjadafnan@gmail.com.
+👋 Hi, I’m @AsjadAfnan.<br>👀 I Work as AI Researcher in the morning And a cinematographer at Night.<br>🌱 I’m currently learning System design Architecture Involving AI Systems.<br>🦇 I Enjoy Video Editing and Filming.<br>💞️ I’m a student @University of Bremen.<br>📫 How to reach me contactasjadafnan@gmail.com.
 
 
 # 💻 Tech Stack:
